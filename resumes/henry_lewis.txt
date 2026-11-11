@@ -1,0 +1,29 @@
+Henry Lewis
+
+PROFESSIONAL SUMMARY
+Cybersecurity Engineer with 8 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+Linux
+AWS
+Network Security
+SIEM
+Git
+
+EXPERIENCE
+
+Cybersecurity Engineer
+Secure Systems
+2018 - Present
+
+Worked on production projects as a Cybersecurity Engineer.
+Designed and implemented solutions using Python, Linux, AWS, Network Security.
+Collaborated with engineering teams to deliver reliable software.
+Applied SIEM, Git in project environments.
+
+EDUCATION
+
+Bachelor of Science in Cybersecurity
+Example University
+2014 - 2018

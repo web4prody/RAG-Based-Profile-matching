@@ -1,0 +1,28 @@
+Sophia Martin
+
+PROFESSIONAL SUMMARY
+Frontend Developer with 4 years of experience delivering software and technology solutions.
+
+SKILLS
+JavaScript
+React
+HTML
+CSS
+Git
+
+EXPERIENCE
+
+Frontend Developer
+Web Experiences
+2022 - Present
+
+Worked on production projects as a Frontend Developer.
+Designed and implemented solutions using JavaScript, React, HTML, CSS.
+Collaborated with engineering teams to deliver reliable software.
+Applied Git in project environments.
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+Example University
+2018 - 2022

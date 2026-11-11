@@ -1,0 +1,20 @@
+Senior Data Scientist
+
+We are looking for an experienced Data Scientist to build machine learning and data analytics solutions.
+
+Required Experience:
+5+ years of experience in data science or machine learning.
+
+Required Skills:
+Python
+SQL
+Machine Learning
+Pandas
+AWS
+
+Preferred Skills:
+TensorFlow
+PyTorch
+Docker
+
+The candidate should have experience developing machine learning models, performing data analysis, and deploying data-driven solutions.

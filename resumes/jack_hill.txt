@@ -1,0 +1,30 @@
+Jack Hill
+
+PROFESSIONAL SUMMARY
+Platform Engineer with 7 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+AWS
+Docker
+Kubernetes
+Linux
+CI/CD
+Git
+
+EXPERIENCE
+
+Platform Engineer
+Platform Cloud
+2019 - Present
+
+Worked on production projects as a Platform Engineer.
+Designed and implemented solutions using Python, AWS, Docker, Kubernetes.
+Collaborated with engineering teams to deliver reliable software.
+Applied Linux, CI/CD, Git in project environments.
+
+EDUCATION
+
+Bachelor of Technology in Information Technology
+Example University
+2015 - 2019

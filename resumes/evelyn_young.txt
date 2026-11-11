@@ -1,0 +1,28 @@
+Evelyn Young
+
+PROFESSIONAL SUMMARY
+Data Analyst with 4 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+SQL
+Pandas
+Power BI
+Excel
+
+EXPERIENCE
+
+Data Analyst
+Analytics Solutions
+2022 - Present
+
+Worked on production projects as a Data Analyst.
+Designed and implemented solutions using Python, SQL, Pandas, Power BI.
+Collaborated with engineering teams to deliver reliable software.
+Applied Excel in project environments.
+
+EDUCATION
+
+Bachelor of Science in Statistics
+Example University
+2018 - 2022

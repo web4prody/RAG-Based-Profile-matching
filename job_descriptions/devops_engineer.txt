@@ -1,0 +1,20 @@
+Senior DevOps Engineer
+
+We are looking for an experienced DevOps Engineer to manage cloud infrastructure, deployment automation, and CI/CD pipelines.
+
+Required Experience:
+6+ years of DevOps or cloud engineering experience.
+
+Required Skills:
+AWS
+Docker
+Kubernetes
+CI/CD
+Git
+
+Preferred Skills:
+Python
+Terraform
+Linux
+
+The candidate should have experience with cloud infrastructure, containerization, deployment automation, and production systems.

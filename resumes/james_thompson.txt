@@ -1,0 +1,29 @@
+James Thompson
+
+PROFESSIONAL SUMMARY
+Backend Developer with 6 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+Django
+SQL
+Docker
+AWS
+Git
+
+EXPERIENCE
+
+Backend Developer
+Backend Systems
+2020 - Present
+
+Worked on production projects as a Backend Developer.
+Designed and implemented solutions using Python, Django, SQL, Docker.
+Collaborated with engineering teams to deliver reliable software.
+Applied AWS, Git in project environments.
+
+EDUCATION
+
+Bachelor of Technology in Computer Science
+Example University
+2016 - 2020

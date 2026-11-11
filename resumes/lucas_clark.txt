@@ -1,0 +1,29 @@
+Lucas Clark
+
+PROFESSIONAL SUMMARY
+Java Backend Developer with 7 years of experience delivering software and technology solutions.
+
+SKILLS
+Java
+Spring Boot
+SQL
+Docker
+Kubernetes
+AWS
+
+EXPERIENCE
+
+Java Backend Developer
+Enterprise Software
+2019 - Present
+
+Worked on production projects as a Java Backend Developer.
+Designed and implemented solutions using Java, Spring Boot, SQL, Docker.
+Collaborated with engineering teams to deliver reliable software.
+Applied Kubernetes, AWS in project environments.
+
+EDUCATION
+
+Bachelor of Engineering in Computer Science
+Example University
+2015 - 2019

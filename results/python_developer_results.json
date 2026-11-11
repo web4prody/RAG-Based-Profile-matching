@@ -1,0 +1,82 @@
+{
+    "job_description": "Senior Python Developer\n\nWe are looking for an experienced Python Developer to build\nbackend applications and REST APIs.\n\nRequired Experience:\n5+ years of software development experience.\n\nRequired Skills:\nPython\nFastAPI\nSQL\nAWS\nDocker\n\nPreferred Skills:\nMachine Learning\nDjango\nCI/CD\n\nThe candidate should have experience developing backend\napplications, working with databases, cloud platforms and\ncontainerized applications.",
+    "top_matches": [
+        {
+            "candidate_name": "Alex Johnson",
+            "resume_path": "resumes\\alex_johnson.txt",
+            "match_score": 71.48,
+            "matched_skills": [
+                "Python",
+                "FastAPI",
+                "Django",
+                "SQL",
+                "AWS",
+                "Docker",
+                "CI/CD"
+            ],
+            "relevant_excerpts": [
+                "Senior Python Developer\nCloudTech Solutions\n2019 - Present\nWorked on production projects as a Senior Python Developer.\nDesigned and implemented solutions using Python, FastAPI, Django, SQL.\nCollaborated with engineering teams to deliver reliable software.\nApplied AWS, Docker, Git, CI/CD in project environments.",
+                "Senior Python Developer with 7 years of experience delivering software and technology solutions.",
+                "Python\nFastAPI\nDjango\nSQL\nAWS\nDocker\nGit\nCI/CD"
+            ],
+            "reasoning": "Matched skills: Python, FastAPI, Django, SQL, AWS, Docker, CI/CD Meets the required 5+ years of experience with 7 years. Candidate satisfies all must-have requirements."
+        },
+        {
+            "candidate_name": "Matthew Hernandez",
+            "resume_path": "resumes\\matthew_hernandez.txt",
+            "match_score": 70.12,
+            "matched_skills": [
+                "Python",
+                "FastAPI",
+                "Django",
+                "SQL",
+                "AWS",
+                "Docker"
+            ],
+            "relevant_excerpts": [
+                "Senior Python Developer\nPlatform Engineering\n2017 - Present\nWorked on production projects as a Senior Python Developer.\nDesigned and implemented solutions using Python, FastAPI, Django, SQL.\nCollaborated with engineering teams to deliver reliable software.\nApplied AWS, Docker, Kubernetes, Git in project environments.",
+                "Senior Python Developer with 9 years of experience delivering software and technology solutions.",
+                "Python\nFastAPI\nDjango\nSQL\nAWS\nDocker\nKubernetes\nGit"
+            ],
+            "reasoning": "Matched skills: Python, FastAPI, Django, SQL, AWS, Docker Meets the required 5+ years of experience with 9 years. Candidate satisfies all must-have requirements."
+        },
+        {
+            "candidate_name": "John Doe",
+            "resume_path": "resumes\\john_doe.txt",
+            "match_score": 67.74,
+            "matched_skills": [
+                "Python",
+                "FastAPI",
+                "Django",
+                "SQL",
+                "AWS",
+                "Docker",
+                "Machine Learning"
+            ],
+            "relevant_excerpts": [
+                "Senior Python Developer\nABC Technologies\n2022 - Present\nDeveloped Python backend applications using FastAPI and Django.\nBuilt REST APIs and deployed applications on AWS.\nWorked with Docker and CI/CD pipelines.\nPython Developer\nXYZ Solutions\n2020 - 2022\nDeveloped Python applications and SQL database solutions.\nWorked with machine learning models for data analysis.",
+                "Software Engineer with 6 years of experience developing backend applications using Python.",
+                "Python\nFastAPI\nDjango\nSQL\nAWS\nDocker\nGit\nMachine Learning"
+            ],
+            "reasoning": "Matched skills: Python, FastAPI, Django, SQL, AWS, Docker, Machine Learning Meets the required 5+ years of experience with 6 years. Candidate satisfies all must-have requirements."
+        },
+        {
+            "candidate_name": "Emma Davis",
+            "resume_path": "resumes\\emma_davis.txt",
+            "match_score": 60.34,
+            "matched_skills": [
+                "Python",
+                "FastAPI",
+                "SQL",
+                "AWS",
+                "Docker"
+            ],
+            "relevant_excerpts": [
+                "Python Backend Developer\nDigital Systems\n2021 - Present\nWorked on production projects as a Python Backend Developer.\nDesigned and implemented solutions using Python, FastAPI, Flask, SQL.\nCollaborated with engineering teams to deliver reliable software.\nApplied AWS, Docker, Git in project environments.",
+                "Python Backend Developer with 5 years of experience delivering software and technology solutions.",
+                "Python\nFastAPI\nFlask\nSQL\nAWS\nDocker\nGit"
+            ],
+            "reasoning": "Matched skills: Python, FastAPI, SQL, AWS, Docker Meets the required 5+ years of experience with 5 years. Candidate satisfies all must-have requirements."
+        }
+    ]
+}

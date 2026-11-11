@@ -1,0 +1,31 @@
+Alex Johnson
+
+PROFESSIONAL SUMMARY
+Senior Python Developer with 7 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+FastAPI
+Django
+SQL
+AWS
+Docker
+Git
+CI/CD
+
+EXPERIENCE
+
+Senior Python Developer
+CloudTech Solutions
+2019 - Present
+
+Worked on production projects as a Senior Python Developer.
+Designed and implemented solutions using Python, FastAPI, Django, SQL.
+Collaborated with engineering teams to deliver reliable software.
+Applied AWS, Docker, Git, CI/CD in project environments.
+
+EDUCATION
+
+Bachelor of Technology in Computer Science
+Example University
+2015 - 2019

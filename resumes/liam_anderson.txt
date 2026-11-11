@@ -1,0 +1,29 @@
+Liam Anderson
+
+PROFESSIONAL SUMMARY
+Java Developer with 6 years of experience delivering software and technology solutions.
+
+SKILLS
+Java
+Spring Boot
+SQL
+AWS
+Docker
+Git
+
+EXPERIENCE
+
+Java Developer
+Enterprise Apps
+2020 - Present
+
+Worked on production projects as a Java Developer.
+Designed and implemented solutions using Java, Spring Boot, SQL, AWS.
+Collaborated with engineering teams to deliver reliable software.
+Applied Docker, Git in project environments.
+
+EDUCATION
+
+Bachelor of Engineering in Information Technology
+Example University
+2016 - 2020

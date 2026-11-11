@@ -1,0 +1,23 @@
+Senior Python Developer
+
+We are looking for an experienced Python Developer to build
+backend applications and REST APIs.
+
+Required Experience:
+5+ years of software development experience.
+
+Required Skills:
+Python
+FastAPI
+SQL
+AWS
+Docker
+
+Preferred Skills:
+Machine Learning
+Django
+CI/CD
+
+The candidate should have experience developing backend
+applications, working with databases, cloud platforms and
+containerized applications.

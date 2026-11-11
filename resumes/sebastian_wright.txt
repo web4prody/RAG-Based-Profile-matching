@@ -1,0 +1,28 @@
+Sebastian Wright
+
+PROFESSIONAL SUMMARY
+Software Engineer with 3 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+Flask
+SQL
+Git
+Docker
+
+EXPERIENCE
+
+Software Engineer
+Software Factory
+2023 - Present
+
+Worked on production projects as a Software Engineer.
+Designed and implemented solutions using Python, Flask, SQL, Git.
+Collaborated with engineering teams to deliver reliable software.
+Applied Docker in project environments.
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+Example University
+2019 - 2023

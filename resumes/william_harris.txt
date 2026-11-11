@@ -1,0 +1,30 @@
+William Harris
+
+PROFESSIONAL SUMMARY
+Data Engineer with 7 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+SQL
+AWS
+Docker
+Spark
+ETL
+Git
+
+EXPERIENCE
+
+Data Engineer
+Big Data Systems
+2019 - Present
+
+Worked on production projects as a Data Engineer.
+Designed and implemented solutions using Python, SQL, AWS, Docker.
+Collaborated with engineering teams to deliver reliable software.
+Applied Spark, ETL, Git in project environments.
+
+EDUCATION
+
+Bachelor of Engineering in Computer Science
+Example University
+2015 - 2019

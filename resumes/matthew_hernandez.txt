@@ -1,0 +1,31 @@
+Matthew Hernandez
+
+PROFESSIONAL SUMMARY
+Senior Python Developer with 9 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+FastAPI
+Django
+SQL
+AWS
+Docker
+Kubernetes
+Git
+
+EXPERIENCE
+
+Senior Python Developer
+Platform Engineering
+2017 - Present
+
+Worked on production projects as a Senior Python Developer.
+Designed and implemented solutions using Python, FastAPI, Django, SQL.
+Collaborated with engineering teams to deliver reliable software.
+Applied AWS, Docker, Kubernetes, Git in project environments.
+
+EDUCATION
+
+Bachelor of Engineering in Computer Science
+Example University
+2013 - 2017

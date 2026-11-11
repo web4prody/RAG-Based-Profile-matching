@@ -1,0 +1,30 @@
+Daniel Allen
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 6 years of experience delivering software and technology solutions.
+
+SKILLS
+AWS
+Docker
+Kubernetes
+CI/CD
+Terraform
+Python
+Git
+
+EXPERIENCE
+
+DevOps Engineer
+DevOps Systems
+2020 - Present
+
+Worked on production projects as a DevOps Engineer.
+Designed and implemented solutions using AWS, Docker, Kubernetes, CI/CD.
+Collaborated with engineering teams to deliver reliable software.
+Applied Terraform, Python, Git in project environments.
+
+EDUCATION
+
+Bachelor of Engineering in Information Technology
+Example University
+2016 - 2020

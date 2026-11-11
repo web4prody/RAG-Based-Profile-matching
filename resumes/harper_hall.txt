@@ -1,0 +1,30 @@
+Harper Hall
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer with 7 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+Machine Learning
+PyTorch
+TensorFlow
+AWS
+Docker
+SQL
+
+EXPERIENCE
+
+Machine Learning Engineer
+Machine Intelligence Labs
+2019 - Present
+
+Worked on production projects as a Machine Learning Engineer.
+Designed and implemented solutions using Python, Machine Learning, PyTorch, TensorFlow.
+Collaborated with engineering teams to deliver reliable software.
+Applied AWS, Docker, SQL in project environments.
+
+EDUCATION
+
+Master of Science in Machine Learning
+Example University
+2015 - 2019

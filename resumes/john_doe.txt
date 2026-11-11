@@ -1,0 +1,37 @@
+John Doe
+
+PROFESSIONAL SUMMARY
+Software Engineer with 6 years of experience developing backend applications using Python.
+
+SKILLS
+Python
+FastAPI
+Django
+SQL
+AWS
+Docker
+Git
+Machine Learning
+
+EXPERIENCE
+
+Senior Python Developer
+ABC Technologies
+2022 - Present
+
+Developed Python backend applications using FastAPI and Django.
+Built REST APIs and deployed applications on AWS.
+Worked with Docker and CI/CD pipelines.
+
+Python Developer
+XYZ Solutions
+2020 - 2022
+
+Developed Python applications and SQL database solutions.
+Worked with machine learning models for data analysis.
+
+EDUCATION
+
+Bachelor of Technology in Computer Science
+Example University
+2016 - 2020

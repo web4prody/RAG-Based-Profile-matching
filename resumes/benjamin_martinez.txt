@@ -1,0 +1,30 @@
+Benjamin Martinez
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 7 years of experience delivering software and technology solutions.
+
+SKILLS
+AWS
+Azure
+Docker
+Kubernetes
+Terraform
+Python
+Linux
+
+EXPERIENCE
+
+Cloud Engineer
+Cloud Services Inc
+2019 - Present
+
+Worked on production projects as a Cloud Engineer.
+Designed and implemented solutions using AWS, Azure, Docker, Kubernetes.
+Collaborated with engineering teams to deliver reliable software.
+Applied Terraform, Python, Linux in project environments.
+
+EDUCATION
+
+Bachelor of Technology in Information Technology
+Example University
+2015 - 2019

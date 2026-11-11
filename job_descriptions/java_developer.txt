@@ -1,0 +1,20 @@
+Senior Java Developer
+
+We are looking for an experienced Java Developer to design and develop enterprise backend applications and REST APIs.
+
+Required Experience:
+6+ years of software development experience.
+
+Required Skills:
+Java
+Spring Boot
+SQL
+AWS
+Docker
+
+Preferred Skills:
+Kubernetes
+Git
+CI/CD
+
+The candidate should have experience developing enterprise Java applications, REST APIs, microservices, and cloud-based systems.

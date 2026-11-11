@@ -1,0 +1,44 @@
+{
+    "job_description": "Senior Data Scientist\n\nWe are looking for an experienced Data Scientist to build machine learning and data analytics solutions.\n\nRequired Experience:\n5+ years of experience in data science or machine learning.\n\nRequired Skills:\nPython\nSQL\nMachine Learning\nPandas\nAWS\n\nPreferred Skills:\nTensorFlow\nPyTorch\nDocker\n\nThe candidate should have experience developing machine learning models, performing data analysis, and deploying data-driven solutions.",
+    "top_matches": [
+        {
+            "candidate_name": "Sarah Wilson",
+            "resume_path": "resumes\\sarah_wilson.txt",
+            "match_score": 68.53,
+            "matched_skills": [
+                "Python",
+                "SQL",
+                "AWS",
+                "Machine Learning",
+                "TensorFlow",
+                "PyTorch",
+                "Pandas"
+            ],
+            "relevant_excerpts": [
+                "Data Scientist with 5 years of experience building machine learning and data analytics solutions.",
+                "Data Scientist\nAnalytics Labs\n2021 - Present\nBuilt machine learning models using Python and TensorFlow.\nPerformed data analysis using Python, Pandas and SQL.\nDeployed machine learning solutions on AWS.\nJunior Data Scientist\nData Insights\n2020 - 2021\nDeveloped predictive models and data processing pipelines.",
+                "Python\nSQL\nMachine Learning\nTensorFlow\nPyTorch\nPandas\nAWS\nGit"
+            ],
+            "reasoning": "Matched skills: Python, SQL, AWS, Machine Learning, TensorFlow, PyTorch, Pandas Meets the required 5+ years of experience with 5 years. Candidate satisfies all must-have requirements."
+        },
+        {
+            "candidate_name": "Ava White",
+            "resume_path": "resumes\\ava_white.txt",
+            "match_score": 65.25,
+            "matched_skills": [
+                "Python",
+                "SQL",
+                "AWS",
+                "Machine Learning",
+                "TensorFlow",
+                "Pandas"
+            ],
+            "relevant_excerpts": [
+                "Data Scientist\nData Analytics Corp\n2021 - Present\nWorked on production projects as a Data Scientist.\nDesigned and implemented solutions using Python, SQL, Machine Learning, Pandas.\nCollaborated with engineering teams to deliver reliable software.\nApplied TensorFlow, AWS in project environments.",
+                "Data Scientist with 5 years of experience delivering software and technology solutions.",
+                "Python\nSQL\nMachine Learning\nPandas\nTensorFlow\nAWS"
+            ],
+            "reasoning": "Matched skills: Python, SQL, AWS, Machine Learning, TensorFlow, Pandas Meets the required 5+ years of experience with 5 years. Candidate satisfies all must-have requirements."
+        }
+    ]
+}

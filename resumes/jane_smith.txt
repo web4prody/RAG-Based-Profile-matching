@@ -1,0 +1,28 @@
+Jane Smith
+
+PROFESSIONAL SUMMARY
+Python Developer with 3 years of experience developing web applications and APIs.
+
+SKILLS
+Python
+FastAPI
+Flask
+SQL
+AWS
+Git
+
+EXPERIENCE
+
+Python Developer
+Tech Solutions
+2023 - Present
+
+Developed backend applications using Python and FastAPI.
+Built REST APIs and worked with SQL databases.
+Deployed applications on AWS.
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+Example State University
+2019 - 2023

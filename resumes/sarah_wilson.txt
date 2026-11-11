@@ -1,0 +1,36 @@
+Sarah Wilson
+
+PROFESSIONAL SUMMARY
+Data Scientist with 5 years of experience building machine learning and data analytics solutions.
+
+SKILLS
+Python
+SQL
+Machine Learning
+TensorFlow
+PyTorch
+Pandas
+AWS
+Git
+
+EXPERIENCE
+
+Data Scientist
+Analytics Labs
+2021 - Present
+
+Built machine learning models using Python and TensorFlow.
+Performed data analysis using Python, Pandas and SQL.
+Deployed machine learning solutions on AWS.
+
+Junior Data Scientist
+Data Insights
+2020 - 2021
+
+Developed predictive models and data processing pipelines.
+
+EDUCATION
+
+Master of Science in Data Science
+Example University
+2018 - 2020

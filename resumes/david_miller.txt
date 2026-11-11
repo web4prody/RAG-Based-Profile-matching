@@ -1,0 +1,35 @@
+David Miller
+
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 8 years of experience developing enterprise Java applications.
+
+SKILLS
+Java
+Spring Boot
+SQL
+AWS
+Docker
+Kubernetes
+Git
+
+EXPERIENCE
+
+Senior Java Developer
+Enterprise Systems
+2020 - Present
+
+Developed enterprise applications using Java and Spring Boot.
+Built REST APIs and microservices.
+Deployed applications using Docker and Kubernetes on AWS.
+
+Software Developer
+Business Software Ltd
+2018 - 2020
+
+Developed Java applications and SQL database solutions.
+
+EDUCATION
+
+Bachelor of Engineering in Information Technology
+Technical University
+2014 - 2018

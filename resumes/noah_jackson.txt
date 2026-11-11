@@ -1,0 +1,31 @@
+Noah Jackson
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 8 years of experience delivering software and technology solutions.
+
+SKILLS
+AWS
+Docker
+Kubernetes
+Terraform
+Linux
+Git
+CI/CD
+Python
+
+EXPERIENCE
+
+DevOps Engineer
+Cloud Infrastructure Ltd
+2018 - Present
+
+Worked on production projects as a DevOps Engineer.
+Designed and implemented solutions using AWS, Docker, Kubernetes, Terraform.
+Collaborated with engineering teams to deliver reliable software.
+Applied Linux, Git, CI/CD, Python in project environments.
+
+EDUCATION
+
+Bachelor of Technology in Information Technology
+Example University
+2014 - 2018

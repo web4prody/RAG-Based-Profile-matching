@@ -1,0 +1,29 @@
+Emily Lopez
+
+PROFESSIONAL SUMMARY
+AI Engineer with 6 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+Machine Learning
+TensorFlow
+FastAPI
+Docker
+AWS
+
+EXPERIENCE
+
+AI Engineer
+AI Systems
+2020 - Present
+
+Worked on production projects as a AI Engineer.
+Designed and implemented solutions using Python, Machine Learning, TensorFlow, FastAPI.
+Collaborated with engineering teams to deliver reliable software.
+Applied Docker, AWS in project environments.
+
+EDUCATION
+
+Master of Science in Artificial Intelligence
+Example University
+2016 - 2020

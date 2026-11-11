@@ -1,0 +1,20 @@
+Senior Machine Learning Engineer
+
+We are looking for an experienced Machine Learning Engineer to design, build, and deploy machine learning solutions.
+
+Required Experience:
+5+ years of machine learning or software engineering experience.
+
+Required Skills:
+Python
+Machine Learning
+TensorFlow
+AWS
+Docker
+
+Preferred Skills:
+PyTorch
+SQL
+FastAPI
+
+The candidate should have experience developing machine learning models, deploying ML solutions, and building production AI systems.

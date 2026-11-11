@@ -1,0 +1,29 @@
+Mia Robinson
+
+PROFESSIONAL SUMMARY
+QA Automation Engineer with 5 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+Selenium
+PyTest
+Git
+CI/CD
+SQL
+
+EXPERIENCE
+
+QA Automation Engineer
+Quality Systems
+2021 - Present
+
+Worked on production projects as a QA Automation Engineer.
+Designed and implemented solutions using Python, Selenium, PyTest, Git.
+Collaborated with engineering teams to deliver reliable software.
+Applied CI/CD, SQL in project environments.
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+Example University
+2017 - 2021

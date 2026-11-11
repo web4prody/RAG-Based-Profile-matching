@@ -1,0 +1,29 @@
+Amelia Lee
+
+PROFESSIONAL SUMMARY
+Database Engineer with 6 years of experience delivering software and technology solutions.
+
+SKILLS
+SQL
+PostgreSQL
+MySQL
+AWS
+Python
+Linux
+
+EXPERIENCE
+
+Database Engineer
+Database Solutions
+2020 - Present
+
+Worked on production projects as a Database Engineer.
+Designed and implemented solutions using SQL, PostgreSQL, MySQL, AWS.
+Collaborated with engineering teams to deliver reliable software.
+Applied Python, Linux in project environments.
+
+EDUCATION
+
+Bachelor of Technology in Computer Science
+Example University
+2016 - 2020

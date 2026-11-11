@@ -1,0 +1,30 @@
+Olivia Thomas
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer with 6 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+Machine Learning
+TensorFlow
+PyTorch
+SQL
+AWS
+Docker
+
+EXPERIENCE
+
+Machine Learning Engineer
+AI Innovations
+2020 - Present
+
+Worked on production projects as a Machine Learning Engineer.
+Designed and implemented solutions using Python, Machine Learning, TensorFlow, PyTorch.
+Collaborated with engineering teams to deliver reliable software.
+Applied SQL, AWS, Docker in project environments.
+
+EDUCATION
+
+Master of Science in Artificial Intelligence
+Example University
+2016 - 2020

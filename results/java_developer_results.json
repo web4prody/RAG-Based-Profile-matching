@@ -1,0 +1,63 @@
+{
+    "job_description": "Senior Java Developer\n\nWe are looking for an experienced Java Developer to design and develop enterprise backend applications and REST APIs.\n\nRequired Experience:\n6+ years of software development experience.\n\nRequired Skills:\nJava\nSpring Boot\nSQL\nAWS\nDocker\n\nPreferred Skills:\nKubernetes\nGit\nCI/CD\n\nThe candidate should have experience developing enterprise Java applications, REST APIs, microservices, and cloud-based systems.",
+    "top_matches": [
+        {
+            "candidate_name": "David Miller",
+            "resume_path": "resumes\\david_miller.txt",
+            "match_score": 64.54,
+            "matched_skills": [
+                "Java",
+                "Spring Boot",
+                "SQL",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Git"
+            ],
+            "relevant_excerpts": [
+                "Senior Software Engineer with 8 years of experience developing enterprise Java applications.",
+                "Senior Java Developer\nEnterprise Systems\n2020 - Present\nDeveloped enterprise applications using Java and Spring Boot.\nBuilt REST APIs and microservices.\nDeployed applications using Docker and Kubernetes on AWS.\nSoftware Developer\nBusiness Software Ltd\n2018 - 2020\nDeveloped Java applications and SQL database solutions.",
+                "Java\nSpring Boot\nSQL\nAWS\nDocker\nKubernetes\nGit"
+            ],
+            "reasoning": "Matched skills: Java, Spring Boot, SQL, AWS, Docker, Kubernetes, Git Meets the required 6+ years of experience with 8 years. Candidate satisfies all must-have requirements."
+        },
+        {
+            "candidate_name": "Lucas Clark",
+            "resume_path": "resumes\\lucas_clark.txt",
+            "match_score": 55.69,
+            "matched_skills": [
+                "Java",
+                "Spring Boot",
+                "SQL",
+                "AWS",
+                "Docker",
+                "Kubernetes"
+            ],
+            "relevant_excerpts": [
+                "Java Backend Developer\nEnterprise Software\n2019 - Present\nWorked on production projects as a Java Backend Developer.\nDesigned and implemented solutions using Java, Spring Boot, SQL, Docker.\nCollaborated with engineering teams to deliver reliable software.\nApplied Kubernetes, AWS in project environments.",
+                "Java Backend Developer with 7 years of experience delivering software and technology solutions.",
+                "Java\nSpring Boot\nSQL\nDocker\nKubernetes\nAWS"
+            ],
+            "reasoning": "Matched skills: Java, Spring Boot, SQL, AWS, Docker, Kubernetes Meets the required 6+ years of experience with 7 years. Candidate satisfies all must-have requirements."
+        },
+        {
+            "candidate_name": "Liam Anderson",
+            "resume_path": "resumes\\liam_anderson.txt",
+            "match_score": 54.54,
+            "matched_skills": [
+                "Java",
+                "Spring Boot",
+                "SQL",
+                "AWS",
+                "Docker",
+                "Git"
+            ],
+            "relevant_excerpts": [
+                "Java Developer with 6 years of experience delivering software and technology solutions.",
+                "Java Developer\nEnterprise Apps\n2020 - Present\nWorked on production projects as a Java Developer.\nDesigned and implemented solutions using Java, Spring Boot, SQL, AWS.\nCollaborated with engineering teams to deliver reliable software.\nApplied Docker, Git in project environments.",
+                "Java\nSpring Boot\nSQL\nAWS\nDocker\nGit"
+            ],
+            "reasoning": "Matched skills: Java, Spring Boot, SQL, AWS, Docker, Git Meets the required 6+ years of experience with 6 years. Candidate satisfies all must-have requirements."
+        }
+    ]
+}

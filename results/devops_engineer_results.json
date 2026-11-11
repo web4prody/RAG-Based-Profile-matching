@@ -1,0 +1,87 @@
+{
+    "job_description": "Senior DevOps Engineer\n\nWe are looking for an experienced DevOps Engineer to manage cloud infrastructure, deployment automation, and CI/CD pipelines.\n\nRequired Experience:\n6+ years of DevOps or cloud engineering experience.\n\nRequired Skills:\nAWS\nDocker\nKubernetes\nCI/CD\nGit\n\nPreferred Skills:\nPython\nTerraform\nLinux\n\nThe candidate should have experience with cloud infrastructure, containerization, deployment automation, and production systems.",
+    "top_matches": [
+        {
+            "candidate_name": "Michael Brown",
+            "resume_path": "resumes\\michael_brown.txt",
+            "match_score": 70.42,
+            "matched_skills": [
+                "Python",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "Terraform",
+                "Linux",
+                "CI/CD"
+            ],
+            "relevant_excerpts": [
+                "DevOps Engineer with 7 years of experience managing cloud infrastructure and deployment pipelines.",
+                "Senior DevOps Engineer\nCloud Systems\n2021 - Present\nManaged AWS cloud infrastructure.\nBuilt Docker and Kubernetes deployment environments.\nImplemented CI/CD pipelines and infrastructure automation.\nUsed Python for automation scripts.\nDevOps Engineer\nInfrastructure Solutions\n2019 - 2021\nManaged Linux servers and automated cloud deployments.",
+                "AWS\nDocker\nKubernetes\nGit\nCI/CD\nLinux\nTerraform\nPython"
+            ],
+            "reasoning": "Matched skills: Python, AWS, Docker, Kubernetes, Git, Terraform, Linux, CI/CD Meets the required 6+ years of experience with 7 years. Candidate satisfies all must-have requirements."
+        },
+        {
+            "candidate_name": "Noah Jackson",
+            "resume_path": "resumes\\noah_jackson.txt",
+            "match_score": 70.1,
+            "matched_skills": [
+                "Python",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "Terraform",
+                "Linux",
+                "CI/CD"
+            ],
+            "relevant_excerpts": [
+                "DevOps Engineer\nCloud Infrastructure Ltd\n2018 - Present\nWorked on production projects as a DevOps Engineer.\nDesigned and implemented solutions using AWS, Docker, Kubernetes, Terraform.\nCollaborated with engineering teams to deliver reliable software.\nApplied Linux, Git, CI/CD, Python in project environments.",
+                "DevOps Engineer with 8 years of experience delivering software and technology solutions.",
+                "AWS\nDocker\nKubernetes\nTerraform\nLinux\nGit\nCI/CD\nPython"
+            ],
+            "reasoning": "Matched skills: Python, AWS, Docker, Kubernetes, Git, Terraform, Linux, CI/CD Meets the required 6+ years of experience with 8 years. Candidate satisfies all must-have requirements."
+        },
+        {
+            "candidate_name": "Daniel Allen",
+            "resume_path": "resumes\\daniel_allen.txt",
+            "match_score": 62.19,
+            "matched_skills": [
+                "Python",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "Terraform",
+                "CI/CD"
+            ],
+            "relevant_excerpts": [
+                "DevOps Engineer\nDevOps Systems\n2020 - Present\nWorked on production projects as a DevOps Engineer.\nDesigned and implemented solutions using AWS, Docker, Kubernetes, CI/CD.\nCollaborated with engineering teams to deliver reliable software.\nApplied Terraform, Python, Git in project environments.",
+                "DevOps Engineer with 6 years of experience delivering software and technology solutions.",
+                "AWS\nDocker\nKubernetes\nCI/CD\nTerraform\nPython\nGit"
+            ],
+            "reasoning": "Matched skills: Python, AWS, Docker, Kubernetes, Git, Terraform, CI/CD Meets the required 6+ years of experience with 6 years. Candidate satisfies all must-have requirements."
+        },
+        {
+            "candidate_name": "Jack Hill",
+            "resume_path": "resumes\\jack_hill.txt",
+            "match_score": 52.12,
+            "matched_skills": [
+                "Python",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "Linux",
+                "CI/CD"
+            ],
+            "relevant_excerpts": [
+                "Platform Engineer\nPlatform Cloud\n2019 - Present\nWorked on production projects as a Platform Engineer.\nDesigned and implemented solutions using Python, AWS, Docker, Kubernetes.\nCollaborated with engineering teams to deliver reliable software.\nApplied Linux, CI/CD, Git in project environments.",
+                "Python\nAWS\nDocker\nKubernetes\nLinux\nCI/CD\nGit",
+                "Platform Engineer with 7 years of experience delivering software and technology solutions."
+            ],
+            "reasoning": "Matched skills: Python, AWS, Docker, Kubernetes, Git, Linux, CI/CD Meets the required 6+ years of experience with 7 years. Candidate satisfies all must-have requirements."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "job_description": "Senior Machine Learning Engineer\n\nWe are looking for an experienced Machine Learning Engineer to design, build, and deploy machine learning solutions.\n\nRequired Experience:\n5+ years of machine learning or software engineering experience.\n\nRequired Skills:\nPython\nMachine Learning\nTensorFlow\nAWS\nDocker\n\nPreferred Skills:\nPyTorch\nSQL\nFastAPI\n\nThe candidate should have experience developing machine learning models, deploying ML solutions, and building production AI systems.",
+    "top_matches": [
+        {
+            "candidate_name": "Harper Hall",
+            "resume_path": "resumes\\harper_hall.txt",
+            "match_score": 72.89,
+            "matched_skills": [
+                "Python",
+                "SQL",
+                "AWS",
+                "Docker",
+                "Machine Learning",
+                "TensorFlow",
+                "PyTorch"
+            ],
+            "relevant_excerpts": [
+                "Machine Learning Engineer\nMachine Intelligence Labs\n2019 - Present\nWorked on production projects as a Machine Learning Engineer.\nDesigned and implemented solutions using Python, Machine Learning, PyTorch, TensorFlow.\nCollaborated with engineering teams to deliver reliable software.\nApplied AWS, Docker, SQL in project environments.",
+                "Machine Learning Engineer with 7 years of experience delivering software and technology solutions.",
+                "Python\nMachine Learning\nPyTorch\nTensorFlow\nAWS\nDocker\nSQL"
+            ],
+            "reasoning": "Matched skills: Python, SQL, AWS, Docker, Machine Learning, TensorFlow, PyTorch Meets the required 5+ years of experience with 7 years. Candidate satisfies all must-have requirements."
+        },
+        {
+            "candidate_name": "Olivia Thomas",
+            "resume_path": "resumes\\olivia_thomas.txt",
+            "match_score": 70.91,
+            "matched_skills": [
+                "Python",
+                "SQL",
+                "AWS",
+                "Docker",
+                "Machine Learning",
+                "TensorFlow",
+                "PyTorch"
+            ],
+            "relevant_excerpts": [
+                "Machine Learning Engineer\nAI Innovations\n2020 - Present\nWorked on production projects as a Machine Learning Engineer.\nDesigned and implemented solutions using Python, Machine Learning, TensorFlow, PyTorch.\nCollaborated with engineering teams to deliver reliable software.\nApplied SQL, AWS, Docker in project environments.",
+                "Machine Learning Engineer with 6 years of experience delivering software and technology solutions.",
+                "Python\nMachine Learning\nTensorFlow\nPyTorch\nSQL\nAWS\nDocker"
+            ],
+            "reasoning": "Matched skills: Python, SQL, AWS, Docker, Machine Learning, TensorFlow, PyTorch Meets the required 5+ years of experience with 6 years. Candidate satisfies all must-have requirements."
+        },
+        {
+            "candidate_name": "Emily Lopez",
+            "resume_path": "resumes\\emily_lopez.txt",
+            "match_score": 54.59,
+            "matched_skills": [
+                "Python",
+                "FastAPI",
+                "AWS",
+                "Docker",
+                "Machine Learning",
+                "TensorFlow"
+            ],
+            "relevant_excerpts": [
+                "AI Engineer\nAI Systems\n2020 - Present\nWorked on production projects as a AI Engineer.\nDesigned and implemented solutions using Python, Machine Learning, TensorFlow, FastAPI.\nCollaborated with engineering teams to deliver reliable software.\nApplied Docker, AWS in project environments.",
+                "AI Engineer with 6 years of experience delivering software and technology solutions.",
+                "Python\nMachine Learning\nTensorFlow\nFastAPI\nDocker\nAWS"
+            ],
+            "reasoning": "Matched skills: Python, FastAPI, AWS, Docker, Machine Learning, TensorFlow Meets the required 5+ years of experience with 6 years. Candidate satisfies all must-have requirements."
+        }
+    ]
+}

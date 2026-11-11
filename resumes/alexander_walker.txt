@@ -1,0 +1,28 @@
+Alexander Walker
+
+PROFESSIONAL SUMMARY
+Python Developer with 4 years of experience delivering software and technology solutions.
+
+SKILLS
+Python
+FastAPI
+SQL
+Docker
+Git
+
+EXPERIENCE
+
+Python Developer
+Software Works
+2022 - Present
+
+Worked on production projects as a Python Developer.
+Designed and implemented solutions using Python, FastAPI, SQL, Docker.
+Collaborated with engineering teams to deliver reliable software.
+Applied Git in project environments.
+
+EDUCATION
+
+Bachelor of Science in Information Technology
+Example University
+2018 - 2022
